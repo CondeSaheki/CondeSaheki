@@ -1,16 +1,18 @@
-## Hi there 👋
+## 💻 Hello there, I'm Saheki
+Computer Scientist from Brazil *Avaliable for Hiring*
 
-<!--
-**CondeSaheki/CondeSaheki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my website [csaheki.dev](https://csaheki.dev)
 
-Here are some ideas to get you started:
+### 🛠 Experiences
+I am aways excited to learn and experiment **new technologies** and **languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, Rust, CPP, C, Python, Java
+- **Frontend:** SvelteKit, TailwindCSS, daisyUI, PHP, TypeScript, JavaScript
+- **Databases:** PostgreSQL, SQLite, SQL
+
+### 🌱 Interests
+
+- My dream is to work with **Quantum computers** I am actively reading and studying the topic
+- I love **open-source** projects and I am always seeking to contribute if possible
+- Optimize software for performance & usability even if it requires to **rewrite and refactor** large sections of code many times is my favorite task
+- **I use Arch, btw** I am a Arch Linux user since 2019
