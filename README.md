@@ -19,10 +19,10 @@ I am aways excited to learn and experiment **new technologies** and **languages*
 - My favorite task is to **rewrite and refactor** many times as necessary to optimize performance, redability and usability
 - **I use Arch, btw** I am a Arch Linux user since 2019 and I am daily learning about the ecosystem
 
-### Thougth on IA
+### Thougth on AI
 I am not the biggest enthusiast of generative AI, but as a technology it is clear that it change our lives and **must evolve**.
 
-The way is to use IA, but we must not forget or ignore the evidences that **IA is destructive** for humanity.
+The way is to use AI, but we must not forget or ignore the evidences that **AI is destructive** for humanity.
 
 *I only prompt things that I am capable of doing*
 
